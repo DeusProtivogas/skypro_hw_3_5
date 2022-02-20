@@ -3,8 +3,9 @@
 
 # Пример
 
-# from flask import Flask
+from flask import Flask
 # from flask_restx import Api
+from flask_restx import Api, Resource
 #
 # from config import Config
 # from models import Review, Book
